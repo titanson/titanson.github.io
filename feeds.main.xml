@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title><![CDATA[My feed]]></title>
+        <link><![CDATA[http://titanson.github.io/feeds.main]]></link>
+        <description><![CDATA[The description of the feed.]]></description>
+        <language>ru-RU</language>
+        <pubDate>2024-08-09T17:31:09+00:00</pubDate>
+
+                    <item>
+                <title><![CDATA[Роскомнадзор сообщил о блокировке популярного мессенджера в России]]></title>
+                <link>https://titanson.github.io/news/50843029</link>
+                <description><![CDATA[#Мессенджер #Signal заблокирован в РФ за нарушение законодательства]]></description>
+                <author><![CDATA[rzn.mk.ru]]></author>
+                <guid isPermaLink="false">2024-08-09-17060850843029</guid>
+                <pubDate>Fri, 09 Aug 2024 17:06:08 +0000</pubDate>
+                                    <enclosure url="https://static.mk.ru/upload/entities/2024/08/09/20/articles/facebookPicture/cb/ca/5d/73/19f90cc469f1155996cfda0a6076fe79.jpg" length="0" type="image/jpeg" />
+                                            </item>
+                    <item>
+                <title><![CDATA[Мурашко: 12 человек остаются в тяжелом состоянии после обстрелов в Курской области]]></title>
+                <link>https://titanson.github.io/news/5f08d0b6</link>
+                <description><![CDATA[В ###Курской области 55 человек из числа пострадавших при обстрелах находятся в стационарах, 12 из них находятся в тяжелом состоянии, сообщил министр здравоохранения РФ #Михаил #Мурашко]]></description>
+                <author><![CDATA[vz.ru]]></author>
+                <guid isPermaLink="false">2024-08-09-1544565f08d0b6</guid>
+                <pubDate>Fri, 09 Aug 2024 15:44:56 +0000</pubDate>
+                                    <enclosure url="https://icdn.lenta.ru/images/2024/08/09/17/20240809170337275/pic_0e16fb90dd254fcbb7d423f49342c1e0.jpg" length="0" type="image/jpeg" />
+                                            </item>
+                    <item>
+                <title><![CDATA[НМИЦ психиатрии опроверг информацию о новых противопоказаниях для вождения]]></title>
+                <link>https://titanson.github.io/news/8d9703f5</link>
+                <description><![CDATA[]]></description>
+                <author><![CDATA[ria.ru]]></author>
+                <guid isPermaLink="false">2024-08-09-1731098d9703f5</guid>
+                <pubDate>Fri, 09 Aug 2024 17:31:09 +0000</pubDate>
+                                    <enclosure url="https://cdnn21.img.ria.ru/images/148479/43/1484794341_0:322:6178:3797_650x0_80_0_0_d1c6fc127684fa8ca017c08bdb2d10ec.jpg" length="0" type="image/jpeg" />
+                                            </item>
+                    <item>
+                <title><![CDATA[Чувашия отправила гуманитарный груз в Курскую область]]></title>
+                <link>https://titanson.github.io/news/a481b5b7</link>
+                <description><![CDATA[Как заявил #Глава #Чувашии #Олег #Николаев, в гуманитарном грузе – предметы первой необходимости]]></description>
+                <author><![CDATA[cheb.mk.ru]]></author>
+                <guid isPermaLink="false">2024-08-09-170659a481b5b7</guid>
+                <pubDate>Fri, 09 Aug 2024 17:06:59 +0000</pubDate>
+                                    <enclosure url="https://static.mk.ru/upload/entities/2024/08/09/20/articles/facebookPicture/c9/55/03/83/8b176402c59536516b667f3147758118.jpg" length="0" type="image/jpeg" />
+                                            </item>
+            </channel>
+</rss>
